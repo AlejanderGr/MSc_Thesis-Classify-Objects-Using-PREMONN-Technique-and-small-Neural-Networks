@@ -1,0 +1,2 @@
+# MSc_Thesis-Classify-Objects-Using-PREMONN-Technique-and-small-Neural-Networks
+This is a part of my Thesis "Curve Recognition and Object Classification using Artificial Intelligence Methods". At this step we classify the objects using the curvature that we calculated at the first step. We are using the PREMONN thechnique which means that we use some small Neural Networks to define the curves of which a contour is composed. This is Matlab code. You can find my Thesis at this link : http://ikee.lib.auth.gr/record/299139/?ln=en
